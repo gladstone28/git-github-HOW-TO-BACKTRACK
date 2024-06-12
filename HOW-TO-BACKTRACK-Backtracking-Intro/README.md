@@ -23,8 +23,8 @@ Must render up myself.
 
 2. From the terminal, add scene-5.txt to the staging area.
 
-Here’s a hint on how to do it.
+[Here’s a hint](https://www.codecademy.com/courses/learn-git/lessons/git-workflow/exercises/git-add) on how to do it.
 
 3. Commit the changes to the repository with a good commit message.
 
-Here’s a hint on how to do it.
+[Here’s a hint](https://www.codecademy.com/courses/learn-git/lessons/git-workflow/exercises/git-commit) on how to do it.
