@@ -1,7 +1,11 @@
+link to lesson:
+
+https://www.codecademy.com/journeys/full-stack-engineer/paths/fscj-22-building-interactive-websites/tracks/fscj-22-git-and-github-part-i/modules/wdcp-22-important-git-operations-da30bb5a-8cd0-4294-b963-9841dd1c22db/lessons/git-backtracking/exercises/git-reset-2
 
 
-HOW TO BACKTRACK
-git reset II
+### HOW TO BACKTRACK
+
+## git reset II
 
 Creating a project is like hiking in a forest. Sometimes you take a wrong turn and find yourself lost.
 
