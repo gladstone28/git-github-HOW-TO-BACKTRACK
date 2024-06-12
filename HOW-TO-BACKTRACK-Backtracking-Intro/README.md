@@ -1,3 +1,6 @@
+link to lesson:
+
+https://www.codecademy.com/journeys/full-stack-engineer/paths/fscj-22-building-interactive-websites/tracks/fscj-22-git-and-github-part-i/modules/wdcp-22-important-git-operations-da30bb5a-8cd0-4294-b963-9841dd1c22db/lessons/git-backtracking/exercises/backtracking-intro
 
 
 HOW TO BACKTRACK
